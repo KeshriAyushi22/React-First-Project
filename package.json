@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://192.168.1.220:28080",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "download": "^7.1.0",
     "file-saver": "^2.0.2",
